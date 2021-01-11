@@ -7,7 +7,7 @@ In this exercise, we are looking at what effects school spending, school size an
 ## Observable Trends
 #### Qustion 1: Does an increase in spending per student have an impact on the average Math and Reading test scores?
 
-- One would expect to observe that as "Spending per Student" increased, the average test scores would increase. --This data does NOT seem to support this. In fact, we see that as spending per student increases, there are sharp declines in average test scores for both math and reading.
+- One would expect to observe that as "Spending per Student" increased, the average test scores would increase. This data does NOT seem to support this. In fact, we see that as spending per student increases, there are sharp declines in average test scores for both math and reading.
 
 ![scores_by_spending](PyCitySchools/images/scores_by_school_spending.png)
 <br>
